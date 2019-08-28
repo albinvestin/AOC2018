@@ -21,10 +21,10 @@ Inverse of .format(), useful for reading formatted input:
   id = extract_id['id']
 ```
 ### Data structures:
-() tuple : ordered, unchangable, duplicates
-[] list : ordered, changeable, duplicates
-{} set : unordered, unindexed, no duplicates
-{:} dictionary : unordered, changeable, indexed
+* () tuple : ordered, unchangable, duplicates
+* [] list : ordered, changeable, duplicates
+* {} set : unordered, unindexed, no duplicates
+* {:} dictionary : unordered, changeable, indexed
 
 ### Iterators, generators and comprehension:
 Anonymous function:
