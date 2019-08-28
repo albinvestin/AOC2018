@@ -3,7 +3,7 @@
 
 Solving the advent of code while learning Python. 
 
-## Python self notes:
+## Python self notes
 
 ### Libraries:
 numpy: use for array such as 2 or 3 dimensional:
@@ -63,7 +63,7 @@ When checking any() by creating a generator from list comprehension the function
 Generators:
 Iterable you can only iterate over once. Generators do not store all values in memeory, they generate the values on the fly:
 ```python
-  my_generator = (x*x fir x in range(3))
+  my_generator = (x*x for x in range(3))
 ```
 
 Yield:
