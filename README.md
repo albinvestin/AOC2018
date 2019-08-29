@@ -3,6 +3,17 @@
 
 Solving the advent of code while learning Python. 
 
+### Days summary:
+
+* Day 1: Test cases unittest
+* Day 2: String Sum
+* Day 3: Numpy grid with 2d Array
+* Day 4: Parse and Numpy for counting sleep time
+* Day 5: Evaluate reaction chain iterative
+* Day 6: Find finite areas on grid with Manhattan Distance
+* Day 7: Objects, list comprehension for parallell working and build order generation
+* Day 8: Iterative sum of three with nodes and children
+
 ## Python self notes
 
 ### Libraries:
